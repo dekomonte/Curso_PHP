@@ -1,9 +1,9 @@
-*{
+* {
     font-family: 'Silkscreen',sans-serif;
     box-sizing: border-box;
 }
 
-body{
+body {
     height: 100vh;
     margin: 0px;
     display: grid;
@@ -12,15 +12,15 @@ body{
     grid-template-areas: "cabecalho" "principal" "rodape";
 }
 
-.cabecalho{
+.cabecalho {
     grid-area: cabecalho;
-    background-color: cornflowerblue;
+    background-color: #1665be;
     color:white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     z-index: 1;
     box-shadow: -8px 8px 10px 0px rgba(2,2,79,1);
 }
@@ -37,14 +37,14 @@ body{
     font-size: 1.6rem;
 }
 
-.principal{
+.principal {
     grid-area: principal;
     height: calc(100vh - 180px);
     background-color: #f0f0f0;
     padding: 20px;
 }
 
-.conteudo{
+.conteudo {
     position: relative;
     height: 100%;
     overflow-y: scroll;
@@ -53,7 +53,7 @@ body{
     box-shadow: -6px 6px 5px 0px rgba(0,0,0,0.44);
 }
 
-.rodape{
+.rodape {
     grid-area: rodape;
     background-color: #ffffff;
     display: flex;
@@ -64,4 +64,111 @@ body{
     color: #444;
     position: sticky;
     bottom: 0px;
+}
+
+.modulos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.modulo {
+    flex-basis: 32%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.modulo > h3 {
+    margin: 0px;
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    background-color: #1f84f7;
+}
+
+.modulo > ul {
+    margin: 0px;
+    padding: 10px;
+    list-style: none;
+}
+
+.modulo > ul > li {
+    padding: 8px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.modulo > ul > li > a {
+    display: flex;
+    text-decoration: none;
+    color: #222;
+}
+
+.modulo > ul > li:hover {
+    background-color: #eee;
+}
+
+/*----Cores----*/
+.modulo.verde{
+    border: 2px solid rgb(95, 221, 95);
+}
+.modulo.verde > h3{
+    background-color: rgb(95, 221, 95);
+}
+
+.modulo.vermelho{
+    border: 2px solid rgb(236, 86, 86);
+}
+.modulo.vermelho > h3{
+    background-color: rgb(236, 86, 86);
+}
+
+.modulo.azul{
+    border: 2px solid rgb(45, 86, 197);
+}
+.modulo.azul > h3{
+    background-color: rgb(45, 86, 197);
+}
+
+.modulo.roxo{
+    border: 2px solid rgb(150, 130, 238);
+}
+.modulo.roxo > h3{
+    background-color: rgb(150, 130, 238);
+}
+
+.modulo.laranja{
+    border: 2px solid rgb(250, 181, 54);
+}
+.modulo.laranja > h3{
+    background-color: rgb(250, 181, 54);
+}
+
+.modulo.verde-escuro{
+    border: 2px solid rgb(2, 102, 2);
+}
+.modulo.verde-escuro > h3{
+    background-color: rgb(2, 102, 2);
+}
+
+.modulo.vermelho-escuro{
+    border: 2px solid rgb(146, 2, 2);
+}
+.modulo.vermelho-escuro > h3{
+    background-color: rgb(146, 2, 2);
+}
+
+.modulo.azul-escuro{
+    border: 2px solid rgb(2, 2, 155);
+}
+.modulo.azul-escuro > h3{
+    background-color: rgb(2, 2, 155);
+}
+
+.modulo.roxo-escuro{
+    border: 2px solid rgb(116, 16, 116);
+}
+.modulo.roxo-escuro > h3{
+    background-color: rgb(116, 16, 116);
 }
