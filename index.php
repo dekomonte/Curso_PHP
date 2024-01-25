@@ -18,7 +18,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01</h3>
+                    <h3>Básico</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
