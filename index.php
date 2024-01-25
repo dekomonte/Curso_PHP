@@ -30,6 +30,16 @@
                                 Integração HTML
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=basico&file=css">
+                                Integração CSS
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=basico&file=comentario">
+                                Comentários PHP
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>

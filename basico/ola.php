@@ -8,7 +8,3 @@ echo "Mundo!";
 
 <h2>Exemplo B</h2>
 <?= "Outra forma de usar tags!" ?>
-
-<?php
-//phpinfo();
-?>
