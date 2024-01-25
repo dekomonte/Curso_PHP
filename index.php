@@ -6,7 +6,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;0,900;1,300;1,700;1,900&family=Silkscreen&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/estilo.css">
-    <link rel="stylesheet" href="assets/css/exercicio.css">
     <title>Curso PHP</title>
 </head>
 <body>
@@ -23,7 +22,12 @@
                     <ul>
                         <li>    
                             <a href="exercicio.php?dir=basico&file=ola">
-                                Olá PHP!
+                                Olá PHP
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=basico&file=html">
+                                Integração HTML
                             </a>
                         </li>
                     </ul>
