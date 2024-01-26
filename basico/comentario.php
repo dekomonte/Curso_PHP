@@ -28,5 +28,3 @@ echo "Forma 3: /**/ <br>";
     Linha 3 do comentário
 */
 ?>
-
-<h1>Depois do Segundo Bloco</h1>
