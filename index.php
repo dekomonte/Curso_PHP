@@ -22,7 +22,7 @@
                     <ul>
                         <li>    
                             <a href="exercicio.php?dir=basico&file=ola">
-                                Olá PHP
+                                Olá Mundo!
                             </a>
                         </li>
                         <li>    
@@ -38,6 +38,53 @@
                         <li>    
                             <a href="exercicio.php?dir=basico&file=comentario">
                                 Comentários PHP
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo vermelho">
+                    <h3>Tipos Básicos</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=int">
+                                Inteiro
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=float">
+                                Float
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=aritmeticas">
+                                Operações Aritméticas
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
+                                Desafio Precedência
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=string">
+                                String
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=desafio_string">
+                                Desafio String
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=booleano">
+                                Booleano
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=conversoes">
+                                Conversões
                             </a>
                         </li>
                     </ul>

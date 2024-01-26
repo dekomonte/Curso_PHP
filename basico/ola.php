@@ -1,4 +1,4 @@
-<div class="titulo">Olá PHP</div>
+<div class="titulo">Olá Mundo!</div>
 
 <h2>Exemplo A</h2>
 <?php
