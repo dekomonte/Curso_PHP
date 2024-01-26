@@ -3,22 +3,19 @@
 <h1 center>
 <?php 
 echo 'Olá';
-echo '<small>';
 echo ' Mundo!';
-echo '</small>';
 ?>
 </h1>
 
-<?= "<div center azul>Outra forma de me 'expressar'!</div>" ?>
-
+<div center azul>Cuidado com isso de ficar misturando as coisas!</div>
 <br>
-<div center><button dobro><?= "Legal" ?></button></div>
+<div center><button dobro><?= "X" ?></button></div>
 
 <style>
     button {
         padding: 5px <?= 2 * 10 ?>px;
-        background-color: #4286f4;
-        color: #EEE;
+        background-color: aqua;
+        color: gray;
         font-weight: bold;
         border-radius: 10px;
     }
@@ -28,8 +25,8 @@ echo '</small>';
         justify-content: center;
     }
 
-    <?= "[azul]" ?> {
-        color: #4286f4;
+    [azul] {
+        color: blue;
     }
 
     [dobro] {
