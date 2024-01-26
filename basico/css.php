@@ -7,15 +7,19 @@ echo ' Mundo!';
 ?>
 </h1>
 
-<div center azul>Cuidado com isso de ficar misturando as coisas!</div>
+<div center azul>Cuidado com isso de ficar misturando as coisas (HTML CSS PHP)!</div>
 <br>
-<div center><button dobro><?= "X" ?></button></div>
+<div center>
+    <a href="index.php">
+        <button dobro><?= "Página Inicial" ?></button>
+    </a>
+</div>
 
 <style>
     button {
         padding: 5px <?= 2 * 10 ?>px;
-        background-color: aqua;
-        color: gray;
+        background-color: royalblue;
+        color: 	black;
         font-weight: bold;
         border-radius: 10px;
     }
@@ -26,7 +30,7 @@ echo ' Mundo!';
     }
 
     [azul] {
-        color: blue;
+        color: #007cf9;
     }
 
     [dobro] {

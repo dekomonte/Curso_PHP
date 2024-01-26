@@ -1,25 +1,38 @@
 <div class="titulo">Integração HTML</div>
 
-<h1>
+<h1> <?php echo "Olá Mundo!";?></h1>
 
-<?php
-
-echo "Olá Mundo!";
-
-?>
-
-</h1>
-
-<h1>
+<p>
 <?php 
-echo 'Olá';
-echo '<small>';
-echo ' Mundo!';
-echo '</small>';
+    echo "É possível colocar tags de formatação de HTML. Exemplos: <br>";
+    echo '<br>';
+
+    echo 'Marked text:';
+    echo '<mark>';
+    echo 'Olá Mundo! <br>';
+    echo '</mark>';
+    echo '<br>';
+
+    echo 'Smaller text:';
+    echo '<small>';
+    echo 'Olá Mundo! <br>';
+    echo '</small>';
+    echo '<br>';
+
+    echo 'Bold text:';
+    echo '<b>';
+    echo 'Olá Mundo! <br>';
+    echo '</b>';
+    echo '<br>';
+    
 ?>
-</h1>
+</p>
 
 <?= "<div>Outra forma de me 'expressar'!</div>" ?>
 
-<br>
-<div><button><?= "Legal" ?></button></div>
+
+<div><button><?= "Legal (sem função)" ?></button></div>
+
+<a class="fcc-btn" href="index.php">
+    <button><?= "Legal (volta pra página inicial)" ?></button>
+</a>

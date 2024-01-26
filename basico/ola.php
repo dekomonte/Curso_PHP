@@ -7,4 +7,4 @@ echo "Mundo!";
 ?>
 
 <h2>Exemplo B</h2>
-<?= "Outra forma de usar tags!" ?>
+<?= "Outra forma: Olá Mundo!" ?>
