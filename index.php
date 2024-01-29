@@ -49,12 +49,12 @@
                     <ul>
                         <li>    
                             <a href="exercicio.php?dir=tipos&file=int">
-                                Inteiro
+                                Tipo Inteiro
                             </a>
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=tipos&file=float">
-                                Float
+                                Tipo Float
                             </a>
                         </li>
                         <li>    
@@ -64,12 +64,12 @@
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=tipos&file=string">
-                                String
+                                Tipo String
                             </a>
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=tipos&file=booleano">
-                                Booleano
+                                Tipo Booleano
                             </a>
                         </li>
                         <li>    
