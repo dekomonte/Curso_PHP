@@ -86,7 +86,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo azul">
-                    <h3>Tipos Básicos</h3>
+                    <h3>Variáveis</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -127,6 +127,78 @@
                         <li>    
                             <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
                                 Variáveis Variáveis
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo roxo">
+                    <h3>Estruturas de Controle</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Exemplos
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo laranja">
+                    <h3>Arrays</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Exemplos
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo verde-escuro">
+                    <h3>Estruturas de Repetição</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Exemplos
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>Funções</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Exemplos
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo azul-escuro">
+                    <h3>Programação Orientada a Objetos</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Exemplos
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo roxo-escuro">
+                    <h3>Includes</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Exemplos
                             </a>
                         </li>
                     </ul>

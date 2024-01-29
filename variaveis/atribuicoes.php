@@ -29,7 +29,7 @@ $numero %= 6;
 echo '<br>' . $numero;
 $numero **= 4;
 echo '<br>' . $numero;
-$numero .= 4; // apenas concatenação!
+$numero .= 4; // Concatenação
 echo '<br>' . $numero;
 
 $texto = 'Esse é um texto';
@@ -39,7 +39,7 @@ echo '<br>' . $texto;
 $texto .= ' de verdade!';
 echo '<br>' . $texto;
 
-// $variavelInexistente = 'valor existente';
-echo '<br>' . $variavelInexistente;
+//$variavelInexistente = 'valor existente';
+//echo '<br>' . $variavelInexistente;
 $valor = $variavelInexistente ?? 'valor default';
 echo '<br>' . $valor;

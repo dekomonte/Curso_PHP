@@ -1,23 +1,28 @@
 <div class="titulo">Constantes</div>
 
 <?php
+echo "<p>Não pode mudar seu valor.</p>";
 define('TAXA_DE_JUROS', 5.9);
 echo TAXA_DE_JUROS;
-echo '<br>' . $TAXA_DE_JUROS . '!';
-// TAXA_DE_JUROS = 2.5;
+echo "<br>";
+
 
 const NOVA_TAXA = 2.5;
-echo '<br>' . NOVA_TAXA;
+echo NOVA_TAXA;
+echo "<br>";
 
 $valorVariavel = 2.8;
-// define('NOVISSIMA_TAXA', $valorVariavel);
-// const NOVISSIMA_TAXA = $valorVariavel;
-const NOVISSIMA_TAXA = 2.8 + 1.2;
-echo '<br>' . NOVISSIMA_TAXA;
+define('NOVISSIMA_TAXA', $valorVariavel);
+echo NOVISSIMA_TAXA;
+echo "<br>";
 
-echo '<br>' . PHP_VERSION;
-echo '<br>' . PHP_INT_MAX;
+echo "Versão do PHP: ";
+echo PHP_VERSION;
+echo "<br>";
+echo "O menor inteiro suportado nesta compilação do PHP: ";
+echo PHP_INT_MAX;
+echo "<br>";
 
-echo '<br> Linha: ' . __LINE__;
-echo '<br>' . __FILE__;
-echo '<br>' . __DIR__;
+echo 'Linha: ' . __LINE__ . "<br>";
+echo __FILE__ . "<br>";
+echo __DIR__ . "<br>";
