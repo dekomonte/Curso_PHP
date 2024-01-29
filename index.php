@@ -77,6 +77,58 @@
                                 Conversões
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=nulo">
+                                Tipo Nulo
+                            </a>
+                        </li>
+                    </ul>
+                    <!--Fim Lista-->
+                </div>
+                <div class="modulo azul">
+                    <h3>Tipos Básicos</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Variáveis
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=atribuicoes">
+                                Atribuições
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=constantes">
+                                Constantes
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                                Desafio Equações
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
+                                Desafio Variáveis
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=interpolacao">
+                                Interpolação
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                                Valor de Referência
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                                Variáveis Variáveis
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
