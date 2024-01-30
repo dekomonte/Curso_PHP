@@ -48,6 +48,7 @@ switch (strtolower($categoria)) {
 
 $precoFormatado = number_format($preco, 2, ',', '.');
 echo "<p>Carro: $carro<br>Preço: $precoFormatado</p>";
+echo "<br>";
 
 echo '<p class="divisao">Exemplo 2</p><hr>';
 #Switch

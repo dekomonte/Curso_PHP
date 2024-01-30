@@ -174,10 +174,17 @@ body {
 }
 
 p.divisao {
-    margin-bottom: 0px;
+    margin-bottom: -2px;
     font-weight: bold;
 }
 
 hr {
-    margin-top: 0px;
+    margin-top: -2px;
+}
+
+p.code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
 }
