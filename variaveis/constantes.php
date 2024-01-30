@@ -6,6 +6,9 @@ define('TAXA_DE_JUROS', 5.9);
 echo TAXA_DE_JUROS;
 echo "<br>";
 
+echo "<p>Não coloca-se o $ antes.</p>";
+echo "<p>Geralmente, utiliza-se o nome todo em letras maiúsculas.</p>";
+
 
 const NOVA_TAXA = 2.5;
 echo NOVA_TAXA;
@@ -16,6 +19,7 @@ define('NOVISSIMA_TAXA', $valorVariavel);
 echo NOVISSIMA_TAXA;
 echo "<br>";
 
+echo "<p>Algumas constantes reservadas pelo PHP:</p>";
 echo "Versão do PHP: ";
 echo PHP_VERSION;
 echo "<br>";

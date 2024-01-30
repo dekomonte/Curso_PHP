@@ -100,11 +100,6 @@
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=constantes">
-                                Constantes
-                            </a>
-                        </li>
-                        <li>    
                             <a href="exercicio.php?dir=variaveis&file=interpolacao">
                                 Interpolação
                             </a>
@@ -117,6 +112,11 @@
                         <li>    
                             <a href="exercicio.php?dir=variaveis&file=valor_referencia">
                                 Valor x Referência
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=constantes">
+                                Constantes
                             </a>
                         </li>
                     </ul>
