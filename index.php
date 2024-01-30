@@ -123,7 +123,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo roxo">
-                    <h3>Estruturas de Controle</h3>
+                    <h3>Estruturas de Seleção</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
