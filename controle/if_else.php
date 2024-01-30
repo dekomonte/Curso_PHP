@@ -1,5 +1,7 @@
 <div class="titulo">If-Else</div>
 
+<h2>Exemplo 1</h2>
+
 <?php
 if(true) {
     echo "Serei impresso?<br>";
@@ -28,8 +30,11 @@ if(false) {
 }
 
 echo "Fim<br>";
+?>
 
-echo "<p>Exemplo:</p>";
+<h2>Exemplo 2</h2>
+
+<?php
 #IF-ELSEIF-ELSE
 $isAdmin = true;
 $numero1 = 70;
@@ -48,3 +53,4 @@ if($resultado){
 else{
     echo "Falso!\n";
 }
+?>

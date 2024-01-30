@@ -2,13 +2,6 @@
 
 <h2>Exemplo A</h2>
 
-<p>
-    <code>
-        echo "Olá ";
-        echo "Mundo!";
-    </code>
-</p>
-
 <?php
 echo "Olá ";
 echo "Mundo!";
