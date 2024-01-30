@@ -16,4 +16,16 @@ $idade = 17;
 $status = $idade >= 18 ? 'Maior de idade' : 'Menor de idade';
 echo "$status<br>";
 
-$status = $idade >= 18 ? $idade >= 65 ? 'Aposentado' : 'Maior de idade' : 'Menor de idade';
+//$status = $idade >= 18 ? $idade >= 65 ? 'Aposentado' : 'Maior de idade' : 'Menor de idade';
+//echo "$status<br>";
+
+echo "<p>Exemplo:</p>";
+#Operador ternário
+$idade = 22;
+$mensagem = $idade < 18 ? 'Você é menor de idade' : 'Você é maior de idade';
+echo $mensagem;
+echo "\n";
+
+$resultado = TRUE;
+echo ($resultado) ? 'Verdadeiro!' : 'Falso!';
+echo "\n";
