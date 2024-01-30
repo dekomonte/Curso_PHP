@@ -31,7 +31,7 @@ $variavel = "Agora sou uma string!";
 echo $variavel;
 echo '<br>';
 
-// Nomes de variável
+// Nomes de variável - Nomenclatura
 $var = 'valida';
 $var2 = 'valida';
 $VAR3 = 'valida';
@@ -40,5 +40,8 @@ $vâr5 = 'valida'; // evitar!
 // $6var = 'invalida';
 // $%var7 = 'invalida';
 // $var8% = 'invalida';
+echo '<br>';
 
+echo $_SERVER["HTTP_HOST"];
+echo '<br>';
 var_dump($_SERVER["HTTP_HOST"]);
