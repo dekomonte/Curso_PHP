@@ -1,6 +1,9 @@
 <div class="titulo">Switch</div>
 
 <?php
+
+echo '<p class="divisao">Exemplo 1</p><hr>';
+
 $categoria = 'asdasdasd';
 $preco = 0.0;
 $carro = '';
@@ -45,3 +48,23 @@ switch (strtolower($categoria)) {
 
 $precoFormatado = number_format($preco, 2, ',', '.');
 echo "<p>Carro: $carro<br>Preço: $precoFormatado</p>";
+
+echo '<p class="divisao">Exemplo 2</p><hr>';
+#Switch
+$nome = "Andressa";
+echo "Resposta: ";
+switch($nome){
+    case "Sandra";
+        echo "É Sandra!\n";
+        break;
+    case "Sena";
+        echo "É Sena!\n";
+        break;
+    case "Andressa";
+        echo "É Andressa!\n";
+        break;
+    default:
+        echo "Não é nenhum! :( \n";
+        break;
+
+}
