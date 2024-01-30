@@ -1,4 +1,4 @@
-<div class="titulo">Valor vs Referência</div>
+<div class="titulo">Valor x Referência</div>
 
 <?php
 $variavel = 'valor inicial';
@@ -10,9 +10,11 @@ echo "<br>$variavelValor";
 $variavelValor = 'novo valor';
 echo "<br>$variavel";
 echo " $variavelValor";
+echo "<br>";
 
 // Atribuição por Referência
 $variavelReferencia = &$variavel;
+echo "$variavelReferencia<br>";
 $variavelReferencia = 'mesma referencia';
 
-echo "<br>$variavel $variavelReferencia";
+echo "<br>$variavel x $variavelReferencia";

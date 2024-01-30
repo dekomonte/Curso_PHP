@@ -32,7 +32,7 @@ echo '<br>' . $numero;
 $numero .= 4; // Concatenação
 echo '<br>' . $numero;
 
-$texto = 'Esse é um texto';
+$texto = 'Exemplo: Esse é um texto';
 echo '<br>' . $texto;
 $texto = $texto . ' qualquer';
 echo '<br>' . $texto;

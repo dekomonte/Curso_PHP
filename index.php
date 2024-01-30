@@ -110,13 +110,13 @@
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
-                                Valor de Referência
+                            <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                                Variáveis Variáveis
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
-                                Variáveis Variáveis
+                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+                                Valor x Referência
                             </a>
                         </li>
                     </ul>
