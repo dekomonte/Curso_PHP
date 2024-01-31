@@ -159,8 +159,38 @@
                     <!--Início Lista-->
                     <ul>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=basico">
-                                Exemplos
+                            <a href="exercicio.php?dir=array&file=basico">
+                                Básico
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=mapa">
+                                Mapa
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=comparacao">
+                                Comparação
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=constantes">
+                                Constantes
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=multi">
+                                Multi
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=operacoes">
+                                Operações
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=post">
+                                Post
                             </a>
                         </li>
                     </ul>
@@ -198,8 +228,53 @@
                     <!--Início Lista-->
                     <ul>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=basico">
-                                Exemplos
+                            <a href="exercicio.php?dir=funcoes&file=anonimas">
+                                Anônimas
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                Argumento Padrão
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                Argumentos Variáveis
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                                Closure Callable
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=escopo">
+                                Escopo
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=map_filter">
+                                Map Filter
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                               Palíndromo
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                                Recursividade
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=retornando_funcao">
+                                Retornando Função
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                                Usando Tipos
                             </a>
                         </li>
                     </ul>
