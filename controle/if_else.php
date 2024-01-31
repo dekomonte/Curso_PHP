@@ -1,6 +1,6 @@
 <div class="titulo">If-Else</div>
 
-<h2>Exemplo 1</h2>
+<h2>Teoria</h2>
 
 <?php
 if(true) {
@@ -32,7 +32,7 @@ if(false) {
 echo "Fim<br>";
 ?>
 
-<h2>Exemplo 2</h2>
+<h2>Exemplo</h2>
 
 <?php
 #IF-ELSEIF-ELSE

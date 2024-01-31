@@ -151,6 +151,11 @@
                                 Switch
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=controle&file=pi">
+                                Número PI
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
