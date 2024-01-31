@@ -207,8 +207,8 @@
                     <!--Início Lista-->
                     <ul>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=basico">
-                                Exemplos
+                            <a href="exercicio.php?dir=includes&file=geral">
+                                Geral
                             </a>
                         </li>
                     </ul>
