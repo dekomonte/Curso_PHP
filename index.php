@@ -17,7 +17,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Básico</h3>
+                    <h3>1.Básico</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -44,7 +44,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Tipos Básicos</h3>
+                    <h3>2.Tipos Básicos</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -86,7 +86,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo azul">
-                    <h3>Variáveis</h3>
+                    <h3>3.Variáveis</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -123,7 +123,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo roxo">
-                    <h3>Estruturas de Seleção</h3>
+                    <h3>4.Estruturas de Seleção</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -155,7 +155,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo laranja">
-                    <h3>Arrays</h3>
+                    <h3>5.Arrays</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -167,19 +167,34 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo verde-escuro">
-                    <h3>Estruturas de Repetição</h3>
+                    <h3>6.Estruturas de Repetição</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=basico">
-                                Exemplos
+                            <a href="exercicio.php?dir=repeticoes&file=for">
+                                For
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=repeticoes&file=foreach">
+                                Foreach
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=repeticoes&file=while">
+                                While
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=repeticoes&file=brack_continue">
+                                Break-Continue
                             </a>
                         </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo vermelho-escuro">
-                    <h3>Funções</h3>
+                    <h3>7.Funções</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -191,7 +206,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo azul-escuro">
-                    <h3>Programação Orientada a Objetos</h3>
+                    <h3>8.Programação Orientada a Objetos</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -203,7 +218,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo roxo-escuro">
-                    <h3>Includes</h3>
+                    <h3>9.Includes</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
