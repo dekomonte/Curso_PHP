@@ -3,7 +3,6 @@
 <?php
 echo "<p class='divisao'>Negação Lógica</p><hr>";
 var_dump(true);
-echo '<br>';
 var_dump(!true); // not
 
 echo "<p class='divisao'>Tabela Verdade 'AND' (E)</p><hr>";
@@ -40,6 +39,8 @@ var_dump(false != true);
 var_dump(false != false);
 
 echo "<p class='divisao'>Exemplo</p><hr>";
+echo "Tendo idade, sexo e informações sobre previdência, definir se a pessoa pode se aposentar.<br>";
+
 $idade = 65;
 $sexo = 'M';
 
