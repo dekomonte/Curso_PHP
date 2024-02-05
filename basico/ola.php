@@ -2,12 +2,12 @@
 
 <h2>Exemplo A</h2>
 
-<code class="code-style">
-echo "Olá ";<br>
-</code>
-<code class="code-style">
-echo "Mundo!";<br>
-</code>
+<pre>
+    <code class="code-style">
+    echo "Olá ";
+    echo "Mundo!";
+    </code>
+</pre>
 
 <?php
 echo "<br>";

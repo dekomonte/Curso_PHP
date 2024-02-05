@@ -10,19 +10,20 @@
 
     <!--Gambiarra pra adicionar cógido ao texto.-->
     <style>
+      pre {
+        border: 2px solid black;
+        background-color: gray;
+        margin-left: 50vh;
+        margin-right: 50vh;
+    
+      }  
       .code-style {
         font-family: Consolas,"courier new";
         color: crimson;
         font-size: 20px;
-        padding-bottom: 4px;
-        margin: 4px;
-        line-height: 28px;
-        background-color: gray;
-        color: #ffffff;
-        border-top: 1px solid black;
-        border-bottom: 1px solid black;
-        border-left: 1px solid black;
-        border-right: 1px solid black;
+        line-height: 30px;
+        color: #ffffff;  
+        text-align: left; 
       }
     </style>
 
