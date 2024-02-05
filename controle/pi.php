@@ -12,10 +12,10 @@ $tol = 0.0001;
 $dif = abs($pi-pi());
 
 if ($dif <= $tol){
-    echo "Correto<br>";
+    echo "Correto.<br>";
 }
 else{
-    echo "INCORRETO<br>";
+    echo "INCORRETO.<br>";
 }
 
 

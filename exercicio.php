@@ -7,6 +7,25 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;0,900;1,300;1,700;1,900&family=Silkscreen&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/estilo.css">
     <link rel="stylesheet" href="assets/css/exercicio.css">
+
+    <!--Gambiarra pra adicionar cógido ao texto.-->
+    <style>
+      .code-style {
+        font-family: Consolas,"courier new";
+        color: crimson;
+        font-size: 20px;
+        padding-bottom: 4px;
+        margin: 4px;
+        line-height: 28px;
+        background-color: gray;
+        color: #ffffff;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+      }
+    </style>
+
     <title>Exercício</title>
 </head>
 <body class="exercicio">

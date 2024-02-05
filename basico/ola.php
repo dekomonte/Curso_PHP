@@ -2,7 +2,15 @@
 
 <h2>Exemplo A</h2>
 
+<code class="code-style">
+echo "Olá ";<br>
+</code>
+<code class="code-style">
+echo "Mundo!";<br>
+</code>
+
 <?php
+echo "<br>";
 echo "Olá ";
 echo "Mundo!";
 ?>
