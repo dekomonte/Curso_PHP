@@ -156,6 +156,11 @@
                                 Número PI
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
+                                EXTRA: Desafio Operadores Lógicos
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
