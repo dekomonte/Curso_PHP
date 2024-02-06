@@ -56,6 +56,12 @@
                                 Comentários PHP
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=basico&file=desafio_basico">
+                                <div class="extra">Extra</div> 
+                                Desafio Integração PHP+CSS+HTML
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
@@ -168,8 +174,9 @@
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=pi">
-                                Número PI
+                            <a href="exercicio.php?dir=controle&file=desafio_pi">
+                                <div class="extra">Extra</div> 
+                                Desafio Número PI
                             </a>
                         </li>
                         <li>    
