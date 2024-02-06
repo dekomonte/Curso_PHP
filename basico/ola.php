@@ -4,6 +4,7 @@
 
 <pre>
     <code class="code-style">
+    //Código PHP
     echo "Olá ";
     echo "Mundo!";
     </code>

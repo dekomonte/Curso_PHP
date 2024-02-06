@@ -8,14 +8,14 @@
     <link rel="stylesheet" href="assets/css/estilo.css">
     <link rel="stylesheet" href="assets/css/exercicio.css">
 
-    <!--Gambiarra pra adicionar cógido ao texto.-->
+    <!--Gambiarra pra adicionar cógido ao texto-->
     <style>
       pre {
         border: 2px solid black;
         background-color: gray;
         margin-left: 50vh;
         margin-right: 50vh;
-    
+        border-radius: 10px;    
       }  
       .code-style {
         font-family: Consolas,"courier new";

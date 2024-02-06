@@ -38,6 +38,7 @@ echo $resumo;
 
 <pre>
     <code class="code-style">
+    //Código PHP do desafio
     if(isset($_POST['t1']) && isset($_POST['t2'])) {
     $t1 = $_POST['t1'] === '1';
     $t2 = !!$_POST['t2'];
