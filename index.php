@@ -7,6 +7,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;0,900;1,300;1,700;1,900&family=Silkscreen&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/estilo.css">
     <title>Curso PHP</title>
+
+    <!--Destaque nos Desafios-->
+    <style>
+        .extra{
+            background-color: #FF8A65;
+            border-radius: 4px;
+            border-style: dashed;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            padding-left: 4px;
+            padding-right: 4px;
+            width: auto;
+            font-size: 14px;
+        }
+    </style>
+
 </head>
 <body>
     <header class="cabecalho">
@@ -158,7 +174,14 @@
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
-                                EXTRA: Desafio Operadores Lógicos
+                                <div class="extra">Extra</div> 
+                                Desafio Operadores Lógicos
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=controle&file=desafio_switch">
+                            <div class="extra">Extra</div> 
+                                Desafio Switch
                             </a>
                         </li>
                     </ul>
@@ -306,9 +329,66 @@
                     <h3>9.Includes</h3>
                     <!--Início Lista-->
                     <ul>
+                        <!--Elemento-->
                         <li>    
                             <a href="exercicio.php?dir=includes&file=geral">
                                 Geral
+                            </a>
+                        </li>
+                        <!--Elemento-->
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=include_arquivo">
+                                Include Arquivo
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=include_funcao">
+                                Include Função
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=include_once_arquivo">
+                                Include Once Arquivo
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=include_once">
+                                Include Once
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=include_require">
+                                Include Require
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=include">
+                                Include 
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=pessoa">
+                                Pessoa 
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=require_return">
+                                Require Return 
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=return_nao_usado">
+                                Return Não Usado
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=return_usado">
+                                Return Usado
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=usuario">
+                               Usuário 
                             </a>
                         </li>
                     </ul>
