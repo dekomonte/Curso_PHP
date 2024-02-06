@@ -54,9 +54,31 @@ echo "<br>";
 
 <h2>Exemplo 2</h2>
 
+<pre>
+    <code class="code-style">
+    //Switch
+    $nome = "Andressa";
+    echo "Resposta: ";
+    switch($nome){
+        case "Sandra";
+            echo "É Sandra!\n";
+            break;
+        case "Sena";
+            echo "É Sena!\n";
+            break;
+        case "Andressa";
+            echo "É Andressa!\n";
+            break;
+        default:
+            echo "Não é nenhum! :( \n";
+            break;
+    }
+    </code>
+</pre>
+
 <?php
 
-#Switch
+//Switch
 $nome = "Andressa";
 echo "Resposta: ";
 switch($nome){
