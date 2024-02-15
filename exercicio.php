@@ -11,14 +11,14 @@
     <!--Gambiarra pra adicionar cógido ao texto-->
     <style>
       pre {
-        border: 2px solid black;
-        background-color: gray;
+        border: 4px solid gray;
+        background-color: #414339;
         margin-left: 50vh;
         margin-right: 50vh;
         border-radius: 10px;    
       }  
       .code-style {
-        font-family: Consolas,"courier new";
+        font-family: Consolas, 'Courier New', monospace;
         color: crimson;
         font-size: 20px;
         line-height: 30px;

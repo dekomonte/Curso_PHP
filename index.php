@@ -104,6 +104,18 @@
                                 Tipo Nulo
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
+                                <div class="extra">Extra</div> 
+                                Desafio Precedência
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=tipos&file=desafio_string">
+                                <div class="extra">Extra</div> 
+                                Desafio String
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
