@@ -2,23 +2,25 @@
 
 <?php
 $lista = array(1, 2, 3.4, "texto");
-echo $lista . '<br>';
+
+echo '<p>var_dump</p>';
 var_dump($lista);
+
+echo '<p>print_r</p>';
+print_r($lista);
 echo '<br>';
-print_r($lista);
 
-$lista[0] = 1234;
-print_r($lista);
-
+//Acessar elemento
 echo '<br>' . $lista[0];
 echo '<br>' . $lista[1];
 echo '<br>' . $lista[2];
 echo '<br>' . $lista[3];
 echo '<br>';
-var_dump($lista[4]);
 
 $texto = 'Esse é um texto de teste';
 echo '<br>' . $texto[0];
-echo '<br>' . $texto[2];
-echo '<br>' . $texto[11]; // cuidado!
 echo '<br>' . mb_substr($texto, 10, 1);
+
+$lista[4]='oi';
+$lista[5]=TRUE;
+var_dump($lista);

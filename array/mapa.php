@@ -1,4 +1,4 @@
-<div class="titulo">Mapa</div>
+<div class="titulo">Array como Mapa</div>
 
 <?php
 $dados = array(

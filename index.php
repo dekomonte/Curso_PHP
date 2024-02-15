@@ -241,7 +241,7 @@
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=array&file=mapa">
-                                Mapa
+                                Array como Mapa
                             </a>
                         </li>
                         <li>    
@@ -267,6 +267,24 @@
                         <li>    
                             <a href="exercicio.php?dir=array&file=post">
                                 Post
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=desafio_index">
+                            <div class="extra">Extra</div> 
+                                Desafio Index
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=desafio_meses">
+                            <div class="extra">Extra</div> 
+                                Desafio Meses
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=array&file=desafio_sorteio">
+                            <div class="extra">Extra</div> 
+                                Desafio Sorteio
                             </a>
                         </li>
                     </ul>
