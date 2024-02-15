@@ -153,6 +153,18 @@
                                 Constantes
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                                <div class="extra">Extra</div> 
+                                Desafio Equação
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
+                                <div class="extra">Extra</div> 
+                                Desafio Variáveis
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
@@ -207,6 +219,12 @@
                             <a href="exercicio.php?dir=controle&file=desafio_switch_2">
                             <div class="extra">Extra</div> 
                                 Desafio Switch 2
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=controle&file=desafio_switch_completo">
+                            <div class="extra">Extra</div> 
+                                Desafio Switch Completo
                             </a>
                         </li>
                     </ul>
