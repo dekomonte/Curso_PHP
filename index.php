@@ -371,6 +371,12 @@
                                 Usando Tipos
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=desafio_recursao">
+                            <div class="extra">Extra</div> 
+                                Desafio Recursão
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
