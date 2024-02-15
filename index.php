@@ -458,6 +458,12 @@
                                Usuário 
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=includes&file=desafio">
+                            <div class="extra">Extra</div> 
+                                Desafio
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
