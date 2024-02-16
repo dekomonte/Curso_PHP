@@ -19,3 +19,5 @@ $meses = array(
 print_r($meses);
 echo '<br>' . $meses[5];
 echo '<br>' . $meses[12];
+
+var_dump($meses);
