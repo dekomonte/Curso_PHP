@@ -314,6 +314,30 @@
                                 Break-Continue
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_for">
+                                <div class="extra">Extra</div> 
+                                Desafio For
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_impressao">
+                                <div class="extra">Extra</div> 
+                                Desafio Impressão
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela">
+                                <div class="extra">Extra</div> 
+                                Desafio Tabela
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">
+                                <div class="extra">Extra</div> 
+                                Desafio Tabela 2
+                            </a>
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
