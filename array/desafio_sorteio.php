@@ -1,6 +1,9 @@
-<div class="titulo">Desafio Sorteio</div>
+<div class="titulo">Desafio Sorteio
+    <ion-icon name="dice-outline"></ion-icon>
+</div>
 
 <p class="divisao">Candidatas:</p>
+
 
 <?php
 $nomes = [
@@ -25,16 +28,47 @@ foreach ($nomes as $nome){
 }
 
 
-
-
 $index = array_rand($nomes);
 echo "<div resultado>E a vencedora foi:</div>";
-echo "<div center><h1>{$nomes[$index]}!</h1></div>"
-
+echo "<div center><h1>{$nomes[$index]}!</h1></div>";
 ?>
 
-<!--Ion Icons-->
+<div baloes>
 <ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+<ion-icon name="balloon-outline"></ion-icon>
+<ion-icon name="ribbon-outline"></ion-icon>
+</div>
 
 <style>
     [center] {
@@ -43,8 +77,9 @@ echo "<div center><h1>{$nomes[$index]}!</h1></div>"
         background-color: #483D8B;
         border-radius: 5px;
         border-style: double;
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-bottom: 50px;
     }
     [resultado] {
         display: flex;
@@ -56,5 +91,15 @@ echo "<div center><h1>{$nomes[$index]}!</h1></div>"
         margin-left: 500px;
         margin-right: 500px;
         padding: 10px;
+        border-radius: 5px;
+        border-style: double;
+    }
+    [baloes] {
+        display: flex;
+        justify-content: center;
+    }
+    ion-icon {
+        font-size: 40px;
+        color: #FF6347;
     }
 </style>
