@@ -39,12 +39,15 @@ $pares = [0, 2, 4, 6, 8];
 
 $decimais = $pares + $impares;
 echo '<br>';
-print_r($decimais);
+var_dump($decimais);
+//print_r($decimais);
 
 $decimais = array_merge($pares, $impares);
 echo '<br>';
-print_r($decimais);
+//print_r($decimais);
+var_dump($decimais);
 
 sort($decimais);
 echo '<br>';
-print_r($decimais);
+//print_r($decimais);
+var_dump($decimais);
