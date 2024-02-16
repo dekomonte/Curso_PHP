@@ -173,56 +173,56 @@
                     <!--Início Lista-->
                     <ul>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=if_else">
+                            <a href="exercicio.php?dir=selecao&file=if_else">
                                 If-Else
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=operador_ternario">
+                            <a href="exercicio.php?dir=selecao&file=operador_ternario">
                                 Operador Ternário
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=operadores_logicos">
+                            <a href="exercicio.php?dir=selecao&file=operadores_logicos">
                                 Operadores Lógicos
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=operadores_relacionais">
+                            <a href="exercicio.php?dir=selecao&file=operadores_relacionais">
                                 Operadores Relacionais
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=switch">
+                            <a href="exercicio.php?dir=selecao&file=switch">
                                 Switch
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=desafio_pi">
+                            <a href="exercicio.php?dir=selecao&file=desafio_pi">
                                 <div class="extra">Extra</div> 
                                 Desafio Número PI
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
+                            <a href="exercicio.php?dir=selecao&file=desafio_operadores_logicos">
                                 <div class="extra">Extra</div> 
                                 Desafio Operadores Lógicos
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=desafio_switch">
+                            <a href="exercicio.php?dir=selecao&file=desafio_switch">
                             <div class="extra">Extra</div> 
                                 Desafio Switch
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=desafio_switch_2">
+                            <a href="exercicio.php?dir=selecao&file=desafio_switch_2">
                             <div class="extra">Extra</div> 
                                 Desafio Switch 2
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=controle&file=desafio_switch_completo">
+                            <a href="exercicio.php?dir=selecao&file=desafio_switch_completo">
                             <div class="extra">Extra</div> 
                                 Desafio Switch Completo
                             </a>

@@ -1,5 +1,26 @@
 <div class="titulo">Operações</div>
 
+<p>Você pode "somar" arrays:</p>
+
+<pre>
+    <code class="code-style">
+        //Exemplo
+        $dados1 = [
+            "nome" => "Jose",
+            "idade" => 56
+        ];
+
+        $dados2 = [
+            "naturalidade" => "Fortaleza"
+        ];
+
+        $dados2["endereço"] = "Rua A";
+
+        $dadosCompletos = $dados1 + $dados2;
+        var_dump($dadosCompletos);
+    </code>
+</pre>
+
 <?php
 $dados1 = [
     "nome" => "Jose",
