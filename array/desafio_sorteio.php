@@ -33,6 +33,9 @@ echo "<div center><h1>{$nomes[$index]}!</h1></div>"
 
 ?>
 
+<!--Ion Icons-->
+<ion-icon name="balloon-outline"></ion-icon>
+
 <style>
     [center] {
         display: flex;
