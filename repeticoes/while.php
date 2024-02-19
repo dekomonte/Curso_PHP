@@ -21,3 +21,24 @@ while(true) {
     $contador++;
     if($contador >= VALOR_LIMITE) break;
 }
+
+/*---------------Estruturas de Repetição---------------*/
+#WHILE
+$cont=1;
+while ($cont<=10){
+    echo "$cont";
+    echo " ";
+    $cont++;
+}
+echo "<br>";
+echo "\n";
+
+#DO-WHILE
+$cont=1;
+do{
+    echo "$cont";
+    echo " ";
+    $cont++;
+}while ($cont<=10);
+echo "<br>";
+echo "\n";

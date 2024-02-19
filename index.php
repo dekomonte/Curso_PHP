@@ -306,7 +306,7 @@
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=repeticoes&file=while">
-                                While
+                                While|Do-While
                             </a>
                         </li>
                         <li>    
