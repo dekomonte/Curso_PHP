@@ -1,5 +1,26 @@
 <div class="titulo">Foreach</div>
 
+<pre>
+    <code class="code-style">
+        $array = [
+            1 => 'Domingo',
+            'Segunda',
+            'Terça',
+            'Quarta',
+            'Quinta',
+            'Sexta',
+            'Sábado'
+        ];
+
+        var_dump($array);
+
+        foreach ($array as $valor) {
+            echo "$valor";
+        }
+
+    </code>
+</pre>
+
 <?php
 $array = [
     1 => 'Domingo',
@@ -10,6 +31,8 @@ $array = [
     'Sexta',
     'Sábado'
 ];
+
+var_dump($array);
 
 foreach ($array as $valor) {
     echo "$valor <br>";
@@ -25,7 +48,7 @@ $matrix = [
 ];
 
 foreach ($matrix as $linha) {
-    // echo "$linha <br>";
+    //echo "$linha <br>";
     foreach($linha as $letra) {
         echo "$letra ";
     }

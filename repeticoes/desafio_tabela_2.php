@@ -1,4 +1,4 @@
-<div class="titulo">Desafio Tabela #02</div>
+<div class="titulo">Desafio Tabela 2</div>
 
 <form action="#" method="post">
     <div>
@@ -19,8 +19,10 @@
         $linhas = intval($_POST['linhas']);
         $colunas = intval($_POST['colunas']);
         
-        if(!$linhas) $linhas = 10;
-        if(!$colunas) $colunas = 10;
+        if(!$linhas) 
+            $linhas = 10;
+        if(!$colunas) 
+            $colunas = 10;
 
         $num = 1;
         for($i = 0; $i < $linhas; $i++) {

@@ -1,11 +1,14 @@
 <div class="titulo">Desafio Impressão</div>
 
-<!--
+<p>
 Enunciado: 
-- Imprima apenas os valores do array que contém indice par
-- Resolver com for e foreach
-- Valores esperados: AAA, CCC, EEE
--->
+<ul>
+    <li>Imprima apenas os valores do array que contém indice par;</li>
+    <li>Resolver com for e foreach</li>
+    <li>Valores esperados: AAA, CCC, EEE</li>
+</ul>
+</p>
+
 
 <?php
 $array = [
