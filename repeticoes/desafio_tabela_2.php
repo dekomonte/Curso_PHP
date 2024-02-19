@@ -46,13 +46,13 @@
     }
 
     table {
-        border: 1px solid #444;
+        border: 2px solid #444;
         border-collapse: collapse;
         margin: 20px 0px;
     }
 
     table tr {
-        border: 1px solid #444;
+        border: 2px solid #444;
     }
 
     table td {
