@@ -246,7 +246,7 @@
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=array&file=comparacao">
-                                Comparação
+                                Comparação de Arrays
                             </a>
                         </li>
                         <li>    
