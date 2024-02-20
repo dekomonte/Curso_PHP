@@ -1,4 +1,6 @@
-<div class="titulo">Multidimensionais</div>
+<div class="titulo">Array Multidimensionais</div>
+
+<p>Posso acessar os elementos e posso adicionar novos elementos.</p>
 
 <?php
 $dados = [
@@ -14,10 +16,12 @@ $dados = [
     ],
 ];
 
+//Como acessar os elementos
 print_r($dados);
 echo '<br>' . $dados[0]['idade'];
 echo '<br>' . $dados[1]['idade'];
 
+//Adicionar novos elementos
 $dados[] = [
     "nome" => "Florinda",
     "idade" => 30,
@@ -32,7 +36,7 @@ $dados[2]["vizinho"] = "Chaves";
 echo '<br>';
 print_r($dados[2]);
 
+//Eliminar um elemento não faz o Array reordenar os índices
 unset($dados[1]);
 echo '<br>';
-print_r($dados);
-var_dump($dados[1000]);
+var_dump($dados);

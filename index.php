@@ -256,7 +256,7 @@
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=array&file=multi">
-                                Multi
+                                Arrays Multidimensionais
                             </a>
                         </li>
                         <li>    
