@@ -432,7 +432,7 @@
                             </a>
                         </li>
                         <!--Elemento-->
-                        <li>    
+                        <!--<li>    
                             <a href="exercicio.php?dir=includes&file=include_arquivo">
                                 Include Arquivo
                             </a>
@@ -492,7 +492,7 @@
                             <div class="extra">Extra</div> 
                                 Desafio
                             </a>
-                        </li>
+                        </li>-->
                     </ul>
                     <!--Fim Lista-->
                 </div>
