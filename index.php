@@ -251,7 +251,7 @@
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=array&file=constantes">
-                                Constantes
+                                Arrays Constantes
                             </a>
                         </li>
                         <li>    
