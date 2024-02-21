@@ -347,7 +347,7 @@
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo vermelho-escuro">
-                    <h3>7.Funções</h3>
+                    <h3>7.Funções - FALTA CONTEÚDO</h3>
                     <!--Início Lista-->
                     <ul>
                         <li>    
@@ -414,15 +414,15 @@
                     <!--Início Lista-->
                     <ul>
                         <li>    
-                            <a href="exercicio.php?dir=variaveis&file=basico">
-                                Exemplos
+                            <a href="exercicio.php?dir=poo&file=conceito">
+                                Conceitos
                             </a>
                         </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
                 <div class="modulo roxo-escuro">
-                    <h3>9.Includes</h3>
+                    <h3>9.Includes - FALTA CONTEÚDO</h3>
                     <!--Início Lista-->
                     <ul>
                         <!--Elemento-->
@@ -432,7 +432,7 @@
                             </a>
                         </li>
                         <!--Elemento-->
-                        <!--<li>    
+                        <li>    
                             <a href="exercicio.php?dir=includes&file=include_arquivo">
                                 Include Arquivo
                             </a>
@@ -492,7 +492,7 @@
                             <div class="extra">Extra</div> 
                                 Desafio
                             </a>
-                        </li>-->
+                        </li>
                     </ul>
                     <!--Fim Lista-->
                 </div>
