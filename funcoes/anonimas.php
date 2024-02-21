@@ -5,7 +5,7 @@ $soma = function ($a, $b) {
     return $a + $b;
 };
 
-echo $soma(1, 2) . '<br>';
+echo $soma(7, 9) . '<br>';
 
 function executar($a, $b, $op, $funcao) {
     $resultado = $funcao($a, $b) ?? 'Nada';
@@ -24,4 +24,4 @@ function divisao($a, $b) {
     return $a / $b;
 }
 
-executar(9, 3, '/', divisao);
+//executar(9, 3, '/', divisao);

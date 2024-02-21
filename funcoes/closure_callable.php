@@ -1,4 +1,4 @@
-<div class="titulo">Closure & Callable</div>
+<div class="titulo">Closure e Callable</div>
 
 <?php
 
