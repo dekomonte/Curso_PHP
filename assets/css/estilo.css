@@ -173,14 +173,6 @@ body {
     background-color: rgb(116, 16, 116);
 }
 
-/*Descobrir o motivo de não funcionar depois.*/
-.modulo.cor-aleatoria1{
-    border: 2px solid rgb(207, 83, 135);
-}
-.modulo.cor-aleatoria1 > h3{
-    background-color: rgb(207, 83, 135);
-}
-
 
 p.divisao {
     margin-bottom: -2px;

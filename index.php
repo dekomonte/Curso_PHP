@@ -501,11 +501,10 @@
                     </ul>
                     <!--Fim Lista-->
                 </div>
-                <div class="modulo cor-aleatoria1">
+                <div class="modulo verde">
                     <h3>EXTRA - Aplicações</h3>
                     <!--Início Lista-->
                     <ul>
-                        <!--Elemento-->
                         <li>    
                             <a href="exercicio.php?dir=pequenas_aplicacoes&file=porcentagem">
                                 Calculadora de Porcentagem
