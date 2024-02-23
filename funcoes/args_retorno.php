@@ -1,4 +1,4 @@
-<div class="titulo">Argumentos & Retorno</div>
+<div class="titulo">Argumentos e Retorno</div>
 
 <?php
 function obterMensagem() {
