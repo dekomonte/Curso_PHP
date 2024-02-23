@@ -501,6 +501,24 @@
                     </ul>
                     <!--Fim Lista-->
                 </div>
+                <div class="modulo cor-aleatoria1">
+                    <h3>EXTRA - Aplicações</h3>
+                    <!--Início Lista-->
+                    <ul>
+                        <!--Elemento-->
+                        <li>    
+                            <a href="exercicio.php?dir=pequenas_aplicacoes&file=porcentagem">
+                                Calculadora de Porcentagem
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=pequenas_aplicacoes&file=desconto">
+                                Desconto
+                            </a>
+                        </li>
+                    <!--Fim Lista-->
+                    </ul>
+                </div>
             </nav>    
         </div>
     </main>
