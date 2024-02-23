@@ -515,6 +515,11 @@
                                 Desconto
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=pequenas_aplicacoes&file=porcentagem_livro">
+                                Calculadora de Porcentagem Lida de Livros
+                            </a>
+                        </li>
                     <!--Fim Lista-->
                     </ul>
                 </div>
