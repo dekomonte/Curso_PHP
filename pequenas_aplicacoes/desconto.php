@@ -1,4 +1,4 @@
-<div class="titulo">Caculadora de Desconto</div>
+<div class="titulo">Calculadora de Desconto</div>
 
 <form action="#" method="post">
     <label for="fname">% Desconto:</label>
