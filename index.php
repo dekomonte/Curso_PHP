@@ -546,13 +546,18 @@
                     <!--Início Lista-->
                     <ul>
                         <li>    
+                            <a href="exercicio.php?dir=pequenas_aplicacoes&file=calculadora">
+                                Calculadora Simples
+                            </a>
+                        </li>
+                        <li>    
                             <a href="exercicio.php?dir=pequenas_aplicacoes&file=porcentagem">
                                 Calculadora de Porcentagem
                             </a>
                         </li>
                         <li>    
                             <a href="exercicio.php?dir=pequenas_aplicacoes&file=desconto">
-                                Desconto
+                                Calculadora de Desconto
                             </a>
                         </li>
                         <li>    
