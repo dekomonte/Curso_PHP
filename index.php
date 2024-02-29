@@ -21,6 +21,46 @@
             width: auto;
             font-size: 14px;
         }
+
+        /*Gambiarra pra formatar a caixa de Aplicações EXTRAS*/        
+        .modulo_extra{
+            flex-basis: 32%;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .modulo_extra{
+            border: 2px solid rgb(102, 255, 179);
+        }
+        .modulo_extra > h3{
+            background-color: rgb(102, 255, 179);
+            margin: 0px;
+            color: #ffffff;
+            font-weight: 300;
+            font-size: 1.5rem;
+            padding: 10px 20px;
+        }
+        .modulo_extra > ul {
+            margin: 0px;
+            padding: 10px;
+            list-style: none;
+        }
+
+        .modulo_extra > ul > li {
+            padding: 8px;
+            font-size: 1.2rem;
+            cursor: pointer;
+        }
+
+        .modulo_extra > ul > li > a {
+            display: flex;
+            text-decoration: none;
+            color: #222;
+        }
+
+        .modulo_extra > ul > li:hover {
+            background-color: #eee;
+        }
+
     </style>
 
 </head>
@@ -501,7 +541,7 @@
                     </ul>
                     <!--Fim Lista-->
                 </div>
-                <div class="modulo verde">
+                <div class="modulo_extra">
                     <h3>EXTRA - Aplicações</h3>
                     <!--Início Lista-->
                     <ul>
