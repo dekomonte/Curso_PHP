@@ -426,11 +426,6 @@
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=funcoes&file=palindromo">
-                               Palíndromo
-                            </a>
-                        </li>
-                        <li>    
                             <a href="exercicio.php?dir=funcoes&file=recursividade">
                                 Recursividade
                             </a>
@@ -443,6 +438,12 @@
                         <li>    
                             <a href="exercicio.php?dir=funcoes&file=usando_tipos">
                                 Usando Tipos
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                            <div class="extra">Extra</div>
+                               Palíndromo
                             </a>
                         </li>
                         <li>    
