@@ -49,6 +49,8 @@ echo palindromo('abccba');
 echo '<br>';
 echo palindromo('bola');
 echo '<br>';
+echo palindromo('urubu');
+echo '<br>';
 
 function palindromoSimples($palavra) {
     return $palavra === strrev($palavra) ? 'Sim': 'Não';
@@ -61,4 +63,6 @@ echo '<br>';
 echo palindromoSimples('abccba');
 echo '<br>';
 echo palindromoSimples('bola');
+echo '<br>';
+echo palindromoSimples('urubu');
 echo '<br>';
