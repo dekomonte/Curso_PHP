@@ -15,7 +15,7 @@ function anotarPedido($comida, $bebida = 'Água') {
     echo "Para beber: $bebida <br>";
 }
 
-anotarPedido('Hamburguer');
+//anotarPedido('Hamburguer');
 anotarPedido('Pizza', 'Refrigerante');
 
 function anotarPedido2($bebida = 'Água', $comida) {
