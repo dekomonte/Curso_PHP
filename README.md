@@ -3,8 +3,8 @@ Projeto do Curso de [PHP 7 Completo - Curso do Desenvolvedor Web + Projetos](htt
 
 ### Capítulos
 
-[x] - Introdução PHP
-[x] - Revisão HTML e CSS
+- [x] Introdução PHP
+- [x] Revisão HTML e CSS
 
 #### Observações
 Ferramentas utilizadas no desenvolvimento:
