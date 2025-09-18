@@ -25,7 +25,7 @@ Projeto do Curso de [PHP 7 Completo - Curso do Desenvolvedor Web + Projetos](htt
 ## 🖼️ Interface da Aplicação
 
 <p align="center">
-  <img src="./menu.png" alt="Menu - Página Inicial" width="400"/><br/>
-  <img src="./menu2.png" alt="Menu - Opção 1" width="400"/><br/>
-  <img src="./exemplo.png" alt="Menu - Opção 2" width="400"/><br/>
+  <img src="./menu.png" alt="Menu - Página Inicial" width="500"/><br/>
+  <img src="./menu2.png" alt="Menu - Opção 1" width="500"/><br/>
+  <img src="./exemplo.png" alt="Menu - Opção 2" width="500"/><br/>
 </p>
